@@ -1,0 +1,1 @@
+# open5gs_epc_srsran_oai_upf_sample_config
